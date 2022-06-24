@@ -1,0 +1,10 @@
+Setting-up the anconda jypter note-book, gitbash
+
+going throw the video introduction to python:
+
+Python is a programming language, and interpreted object-oriented and high-level language.
+It also supports procedural read programming as well as object-oriented.
+
+going throw the video in string
+
+code will be uploaded in the ipython
