@@ -8,3 +8,13 @@ It also supports procedural read programming as well as object-oriented.
 going throw the video in string
 
 code will be uploaded in the ipython
+
+what is the difference between a method and function?
+Functions or methods basically the same	thing.
+A method is a just a function that belongs to an object.
+
+going throw the video in string
+
+going throw the video in Integers and Floats - Working with Numeric Data
+
+Integer is a whole number and a float as a decimal
