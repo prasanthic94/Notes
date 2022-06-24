@@ -25,3 +25,5 @@ Variables its basically just a container where we can store certain data values,
 
 -> going throw video in getting input from user
 code will be uploaded in the ipython
+-> going throw video in lists,tuples, and sets
+code will be uploaded in the ipython
