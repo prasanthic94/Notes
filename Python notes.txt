@@ -1,20 +1,27 @@
 Setting-up the anconda jypter note-book, gitbash
 
-going throw the video introduction to python:
+->going throw the video introduction to python:
 
 Python is a programming language, and interpreted object-oriented and high-level language.
 It also supports procedural read programming as well as object-oriented.
 
-going throw the video in string
+->going throw the video in string
 
-code will be uploaded in the ipython
+->code will be uploaded in the ipython
 
 what is the difference between a method and function?
 Functions or methods basically the same	thing.
 A method is a just a function that belongs to an object.
 
-going throw the video in string
+->going throw the video in string
 
-going throw the video in Integers and Floats - Working with Numeric Data
+->going throw the video in Integers and Floats - Working with Numeric Data
 
 Integer is a whole number and a float as a decimal
+
+->going throw the video in Variables & Data Types
+
+Variables its basically just a container where we can store certain data values, different type of a data we can store inside of variables
+
+-> going throw video in getting input from user
+code will be uploaded in the ipython
