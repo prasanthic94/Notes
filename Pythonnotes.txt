@@ -1,11 +1,11 @@
 Setting-up the anconda jypter note-book, gitbash
 
-->going throw the video introduction to python:
+->going through the video introduction to python:
 
 Python is a programming language, and interpreted object-oriented and high-level language.
 It also supports procedural read programming as well as object-oriented.
 
-->going throw the video in string
+->going through the video in string
 
 ->code will be uploaded in the ipython
 
@@ -13,22 +13,22 @@ what is the difference between a method and function?
 Functions or methods basically the same	thing.
 A method is a just a function that belongs to an object.
 
-->going throw the video in string
+->going through the video in string
 
-->going throw the video in Integers and Floats - Working with Numeric Data
+->going through the video in Integers and Floats - Working with Numeric Data
 
 Integer is a whole number and a float as a decimal
 
-->going throw the video in Variables & Data Types
+->going through the video in Variables & Data Types
 
 Variables its basically just a container where we can store certain data values, different type of a data we can store inside of variables
 
--> going throw video in getting input from user
+-> going through video in getting input from user
 code will be uploaded in the ipython
--> going throw video in lists,tuples, and sets
+-> going through video in lists,tuples, and sets
 code will be uploaded in the ipython
 
--> going throw video in - Dictionaries 
+-> going through video in - Dictionaries 
 Dictionaries: Dictionaries is a pair of value, we can declare the values in key and values.
 If we want to create a dictionaries we need to open the curly basis
 practice Code will be uploaded in the ipython
@@ -37,8 +37,14 @@ How to copy dictonaries from one variable to another variable
 code will be uploaded in the ipython
 
 Conditionals and Booleans:
-Going throw video
+Going through video
 
 Boolean represents true or false value.
 conditional statement are used to decide whether code has to be execute or skip based on the evaluation of the condition.
 practice Code will be uploaded in the ipython
+
+Loops and Iterations:
+going through video
+A for loop is used for iterating over a sequence
+with the break statement we can stop the loop before it has looped through all the items
+with the continue statement we can stop the current iteration of the loop, and continue with the next.
