@@ -53,4 +53,8 @@ Functions:
 Going through video:
 
 Functions are basically some instructions packaged together that perform a specific task
-In python a function is defined using the def keyword
+In python a function is defined using the def keyword.
+
+Import modules:
+Going through video
+A module to be the same as a code library.
