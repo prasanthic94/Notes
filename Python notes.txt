@@ -35,3 +35,9 @@ practice Code will be uploaded in the ipython
 adding and removing the dictionaries from dictionaries
 How to copy dictonaries from one variable to another variable
 code will be uploaded in the ipython
+
+Conditionals and Booleans:
+Going throw video
+
+Boolean represents true or false value.
+conditional statement are used to decide whether code has to be execute or skip based on the evaluation of the condition.
