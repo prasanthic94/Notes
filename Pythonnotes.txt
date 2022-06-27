@@ -51,10 +51,15 @@ with the continue statement we can stop the current iteration of the loop, and c
 
 Functions:
 Going through video:
-
+sets of instruction
 Functions are basically some instructions packaged together that perform a specific task
 In python a function is defined using the def keyword.
 
 Import modules:
 Going through video
-A module to be the same as a code library.
+module is a collection of functions.
+module is .py extension will be there.
+we write a code in module we can reuse it that code, that file we can import and use that
+In modules we have classes, functions, and variables will be there
+if we want to import file we use Import Modulename (here import is a keyword and name of your module)
+
