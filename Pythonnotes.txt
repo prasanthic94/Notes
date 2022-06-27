@@ -62,4 +62,4 @@ module is .py extension will be there.
 we write a code in module we can reuse it that code, that file we can import and use that
 In modules we have classes, functions, and variables will be there
 if we want to import file we use Import Modulename (here import is a keyword and name of your module)
-
+practice code in ipython
