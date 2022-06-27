@@ -27,3 +27,11 @@ Variables its basically just a container where we can store certain data values,
 code will be uploaded in the ipython
 -> going throw video in lists,tuples, and sets
 code will be uploaded in the ipython
+
+-> going throw video in - Dictionaries 
+Dictionaries: Dictionaries is a pair of value, we can declare the values in key and values.
+If we want to create a dictionaries we need to open the curly basis
+practice Code will be uploaded in the ipython
+adding and removing the dictionaries from dictionaries
+How to copy dictonaries from one variable to another variable
+code will be uploaded in the ipython
