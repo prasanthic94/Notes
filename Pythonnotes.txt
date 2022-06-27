@@ -48,3 +48,9 @@ going through video
 A for loop is used for iterating over a sequence
 with the break statement we can stop the loop before it has looped through all the items
 with the continue statement we can stop the current iteration of the loop, and continue with the next.
+
+Functions:
+Going through video:
+
+Functions are basically some instructions packaged together that perform a specific task
+In python a function is defined using the def keyword
