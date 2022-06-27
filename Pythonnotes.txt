@@ -41,3 +41,4 @@ Going throw video
 
 Boolean represents true or false value.
 conditional statement are used to decide whether code has to be execute or skip based on the evaluation of the condition.
+practice Code will be uploaded in the ipython
