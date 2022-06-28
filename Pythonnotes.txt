@@ -69,3 +69,5 @@ Going through video
 .It is a name of a storage location
 Local Scope: which are variables defined within a function or within a block is called local scope:
 Global scope: Global variable are available from with any scope, global and local
+Enclose scope: what ever variable we define in the function we call it in enclose scope and local scope.
+Built in scope:when the varible or object is not found in local, global or enclose scope then python looking for it in the build-in scope.build-in scope that covers all in the reserved keys. 
