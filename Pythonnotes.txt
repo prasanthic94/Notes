@@ -84,3 +84,10 @@ postive index: it will come left to right
 example:[0,1,2,3,4,5]
 negative index: it will come right to left
 example:[-1,-2,-3,-4,-5]
++operations works in combining of two lists
+
+
+Comprehensions:
+list Comprehensions:
+-> It is technic which is used to create a list in very compact way.
+-> we can write in single line of code, the syntax will be first we give expression then we give for loop and iterations.
