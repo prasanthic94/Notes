@@ -77,5 +77,10 @@ Built in scope:when the varible or object is not found in local, global or enclo
 Slicing Lists and Strings:
 Going through video
 List slicing: We can slice the list of elements.we can give the elements in the list the syntax of slicing is with square brackets we give [start:stop:step] values.
+
 String slicing: It is possible to string in a python. Slicing we give syntax in with in the square brackets the output print like characters.
 
+postive index: it will come left to right
+example:[0,1,2,3,4,5]
+negative index: it will come right to left
+example:[-1,-2,-3,-4,-5]
