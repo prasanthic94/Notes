@@ -7,6 +7,8 @@ It also supports procedural read programming as well as object-oriented.
 
 ->going through the video in string
 
+String means it is a combination of characters.
+
 ->code will be uploaded in the ipython
 
 what is the difference between a method and function?
@@ -70,4 +72,10 @@ Going through video
 Local Scope: which are variables defined within a function or within a block is called local scope:
 Global scope: Global variable are available from with any scope, global and local
 Enclose scope: what ever variable we define in the function we call it in enclose scope and local scope.
-Built in scope:when the varible or object is not found in local, global or enclose scope then python looking for it in the build-in scope.build-in scope that covers all in the reserved keys. 
+Built in scope:when the varible or object is not found in local, global or enclose scope then python looking for it in the build-in scope.build-in scope that covers all in the reserved keys.
+
+Slicing Lists and Strings:
+Going through video
+List slicing: We can slice the list of elements.we can give the elements in the list the syntax of slicing is with square brackets we give [start:stop:step] values.
+String slicing: It is possible to string in a python. Slicing we give syntax in with in the square brackets the output print like characters.
+
