@@ -91,3 +91,4 @@ Comprehensions:
 list Comprehensions:
 -> It is technic which is used to create a list in very compact way.
 -> we can write in single line of code, the syntax will be first we give expression then we give for loop and iterations.
+practice code in ipython
