@@ -120,3 +120,7 @@ Practice code in ipython
 File objects:
 going through the video
 practice code in ipython
+
+Automate Parsing and Renaming of Multiple Files:
+going through the video
+Practice code in python
