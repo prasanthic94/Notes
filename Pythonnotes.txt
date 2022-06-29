@@ -104,4 +104,10 @@ Going through video
 string and non-string when we combined we called it as string format.
 non-string means any object like number,float,list
 we can combined any object with string then we use string format
+we use placeholder using module operator, module operator means %s
+second method is .format method
+f-string is a new method in python 3.6 and above we are using f-strings 
 
+Import OS:
+Os means operating system.
+Os model in python provides functionality for interated with the operating system.
