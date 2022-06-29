@@ -123,4 +123,9 @@ practice code in ipython
 
 Automate Parsing and Renaming of Multiple Files:
 going through the video
-Practice code in python
+Practice code in ipython
+
+Random module:
+It is build-in python
+Going through the video
+practice code in ipython
