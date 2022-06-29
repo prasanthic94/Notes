@@ -116,3 +116,7 @@ Os model in python provides functionality for interated with the operating syste
 datetime module:
 Going through the time and
 Practice code in ipython
+
+File objects:
+going through the video
+practice code in ipython
