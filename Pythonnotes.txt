@@ -99,4 +99,9 @@ sorting is a descending and decending order
 Using sorted() with a reverse argument:
 The output has been reversed with the reverse keyword set to True
 
+String Formatting:
+Going through video
+string and non-string when we combined we called it as string format.
+non-string means any object like number,float,list
+we can combined any object with string then we use string format
 
