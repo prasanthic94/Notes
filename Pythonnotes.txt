@@ -109,5 +109,10 @@ second method is .format method
 f-string is a new method in python 3.6 and above we are using f-strings 
 
 Import OS:
+Going through the video
 Os means operating system.
 Os model in python provides functionality for interated with the operating system.
+
+datetime module:
+Going through the time and
+Practice code in ipython
