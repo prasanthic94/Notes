@@ -129,3 +129,8 @@ Random module:
 It is build-in python
 Going through the video
 practice code in ipython
+
+CSV -
+csv means comma seperate values
+going through video
+practice code in ipython
