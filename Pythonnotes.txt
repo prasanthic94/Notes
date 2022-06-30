@@ -139,3 +139,9 @@ practice code in ipython
 Error and Exception handling:
 going through the video
 practice code in ipython
+
+F-String
+It is a new way to format strings in python 3.6 and above
+going through the video
+Practice code in ipyhton
+
