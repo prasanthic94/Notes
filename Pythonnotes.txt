@@ -145,3 +145,8 @@ It is a new way to format strings in python 3.6 and above
 going through the video
 Practice code in ipyhton
 
+Generators:
+It is used to generate sequence of values
+going through the video
+practice code in ipython
+
