@@ -166,6 +166,8 @@ a line in python double underscore name is equal to double underscore main
 
 SQLite in python:
 Going through video
-Practice code in python
+Practice code in ipython
 
-
+re Module:
+Regular expressions in python
+practice code in ipython
