@@ -134,3 +134,8 @@ CSV -
 csv means comma seperate values
 going through video
 practice code in ipython
+
+
+Error and Exception handling:
+going through the video
+practice code in ipython
