@@ -150,3 +150,8 @@ It is used to generate sequence of values
 going through the video
 practice code in ipython
 
+Decorators in python
+Decorator is one of the feature in python
+Using decorator we can add the extra features in existing functions
+Going through the video
+Practice code in ipython
