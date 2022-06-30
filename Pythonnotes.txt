@@ -155,3 +155,7 @@ Decorator is one of the feature in python
 Using decorator we can add the extra features in existing functions
 Going through the video
 Practice code in ipython
+
+Decorators in python
+Going through video
+Practice code in python
