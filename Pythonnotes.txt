@@ -159,3 +159,13 @@ Practice code in ipython
 Decorators in python
 Going through video
 Practice code in python
+
+
+if_ _ name _ _ == " _ _main _ _"
+a line in python double underscore name is equal to double underscore main
+
+SQLite in python:
+Going through video
+Practice code in python
+
+
