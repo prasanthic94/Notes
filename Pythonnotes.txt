@@ -211,5 +211,9 @@ Going through video
 Practice code in ipython
 
 Array values from user
+An array is basically a data structure which can hold more than one value at a time. 
+It is a collection or ordered series of elements of the same type.
 Going through the video
 practice code in ipython
+
+
