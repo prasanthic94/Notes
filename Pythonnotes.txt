@@ -177,3 +177,11 @@ Regular Expression build-in Remodule
 Going through video
 Code push in ipython
 
+Basic Calculator in Phython:
+In calculator where we'll get two numbers from user and then add those numbers together and print the answer on the screen
+going through video
+practice code in ipython
+
+List Functions in python:
+Going through the video
+Practice code in ipython
