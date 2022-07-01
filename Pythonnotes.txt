@@ -185,3 +185,15 @@ practice code in ipython
 List Functions in python:
 Going through the video
 Practice code in ipython
+
+Guessing game in python:
+Going through the video
+Practice code in ipython
+
+Basic Translator in python:
+Going through the video
+Practice code in ipython
+
+Comments in python:
+Going through the video
+practice code in ipython
