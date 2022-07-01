@@ -202,3 +202,10 @@ Module&pip in python:
 going through video
 practice code in ipython
 
+Prime Number:
+going through video
+practice code in ipython
+
+Array in python:
+Going through video
+Practice code in ipython
