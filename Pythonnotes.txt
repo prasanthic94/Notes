@@ -171,3 +171,9 @@ Practice code in ipython
 re Module:
 Regular expressions in python
 practice code in ipython
+
+ReModule:
+Regular Expression build-in Remodule
+Going through video
+Code push in ipython
+
