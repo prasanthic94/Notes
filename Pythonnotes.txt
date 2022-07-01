@@ -197,3 +197,8 @@ Practice code in ipython
 Comments in python:
 Going through the video
 practice code in ipython
+
+Module&pip in python:
+going through video
+practice code in ipython
+
