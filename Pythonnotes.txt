@@ -209,3 +209,7 @@ practice code in ipython
 Array in python:
 Going through video
 Practice code in ipython
+
+Array values from user
+Going through the video
+practice code in ipython
