@@ -243,8 +243,12 @@ Going through video
 Practice code in ipython
 
 Anonymous Functions:
+In Python, an anonymous function is a function that is defined without a name. 
+A lambda function can take any number of arguments, but can only have one expression.
 Going through video
 Practice code in ipython
+Lambda arguments : expression
 
-
-
+Filter Map Reduce in lambda
+Going through video
+Practice code in ipython
