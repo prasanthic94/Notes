@@ -225,6 +225,10 @@ Types of arguments:
 going through video
 Practice code in ipython
 
+Keyworded Variable Length Arguments in Python:
+going through video
+practice code in ipython
+
 
 
 
