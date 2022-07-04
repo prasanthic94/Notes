@@ -221,4 +221,9 @@ Going through video
 practice code in ipython
 Information can be passed into functions as arguments.
 
+Types of arguments:
+going through video
+Practice code in ipython
+
+
 
