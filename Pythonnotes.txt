@@ -216,4 +216,9 @@ It is a collection or ordered series of elements of the same type.
 Going through the video
 practice code in ipython
 
+Python Function in argument:
+Going through video
+practice code in ipython
+Information can be passed into functions as arguments.
+
 
