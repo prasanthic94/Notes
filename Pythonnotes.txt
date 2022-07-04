@@ -242,8 +242,9 @@ A function that calls itself is known as recursive function.
 Going through video
 Practice code in ipython
 
-
-
+Anonymous Functions:
+Going through video
+Practice code in ipython
 
 
 
