@@ -229,6 +229,10 @@ Keyworded Variable Length Arguments in Python:
 going through video
 practice code in ipython
 
+Global Keyword in Python:
+Going through video 
+Practice code in ipython
+
 
 
 
