@@ -268,5 +268,6 @@ Going through the video
 Practice code in ipython
 
 Binary Search Using Python
+Binary Search is a searching alogorithm for finding an element's position in a sorted array.
 Going through the video
 Practice code in ipython
