@@ -259,3 +259,9 @@ Practice code in ipython
 Special Variable __name__
 Going through the video
 Practice codd in ipython
+
+
+MultiThreading:
+
+Going through the video
+Practice codd in ipython
