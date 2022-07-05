@@ -258,10 +258,11 @@ Practice code in ipython
 
 Special Variable __name__
 Going through the video
-Practice codd in ipython
+Practice code in ipython
 
 
 MultiThreading:
-
+Multithreading is a technique which allows a CPU to execute many tasks of one process at the same time.
+Every application we have multiple threads
 Going through the video
-Practice codd in ipython
+Practice code in ipython
