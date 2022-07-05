@@ -255,3 +255,7 @@ filter:filter(function,iterable)
 reduce(function, iterables)
 Going through video
 Practice code in ipython
+
+Special Variable __name__
+Going through the video
+Practice codd in ipython
