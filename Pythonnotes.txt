@@ -266,3 +266,7 @@ Multithreading is a technique which allows a CPU to execute many tasks of one pr
 Every application we have multiple threads
 Going through the video
 Practice code in ipython
+
+Binary Search Using Python
+Going through the video
+Practice code in ipython
