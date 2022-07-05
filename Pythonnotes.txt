@@ -271,3 +271,12 @@ Binary Search Using Python
 Binary Search is a searching alogorithm for finding an element's position in a sorted array.
 Going through the video
 Practice code in ipython
+
+
+Python Database Connection
+Going through the video
+How to setup mysql
+
+how to connect mysql through python
+Going through the video
+
