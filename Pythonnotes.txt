@@ -280,3 +280,11 @@ How to setup mysql
 how to connect mysql through python
 Going through the video
 
+GITHUB:
+Going through the video
+How will we pull the code to pycharm
+how can you push github to pycharm
+
+Zip function in python:
+Going through the video
+practice code in ipython
