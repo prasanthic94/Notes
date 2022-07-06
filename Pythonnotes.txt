@@ -288,3 +288,11 @@ how can you push github to pycharm
 Zip function in python:
 Going through the video
 practice code in ipython
+
+Sending Email using Python:
+going through video
+
+Classes and object in python
+Going through the video
+Practice code in ipython
+
