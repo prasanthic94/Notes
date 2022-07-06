@@ -307,5 +307,9 @@ Practice code in ipython
 Raise Exception And Finally
 Going through the video
 Practice code in ipython
- 
+
+Iterators:
+Going through the video
+Practice code in ipython
+
 
