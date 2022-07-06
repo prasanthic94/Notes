@@ -296,3 +296,7 @@ Classes and object in python
 Going through the video
 Practice code in ipython
 
+Inheritance:
+Going through the video
+Practice code in ipython
+
