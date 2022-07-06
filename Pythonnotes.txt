@@ -300,3 +300,12 @@ Inheritance:
 Going through the video
 Practice code in ipython
 
+Multiple Inheritance
+Going through the video
+Practice code in ipython
+
+Raise Exception And Finally
+Going through the video
+Practice code in ipython
+ 
+
