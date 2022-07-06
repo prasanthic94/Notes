@@ -312,4 +312,7 @@ Iterators:
 Going through the video
 Practice code in ipython
 
+Generators
+Going through the video
+Practice code in ipython
 
