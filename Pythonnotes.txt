@@ -323,5 +323,6 @@ Going through the video
 Practice code in ipython
 
 
-
-
+Object oriented programming
+Going through the video
+Practice code in ipython
