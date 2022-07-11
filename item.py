@@ -23,7 +23,11 @@ class Item:
     @property
     # Property Decorator = Read-only Attribute
     def name(self):
-        return self._name
+        return self.__name
+    
+    @name.setter
+    def name(self, value):
+            self.__name = value
     
     def calculate_total_price(self):
         return self.price * self.quantity
