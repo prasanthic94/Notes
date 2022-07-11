@@ -330,3 +330,8 @@ Practice code in ipython
 Object oriented programming with python
 Going through the video
 Practice code in ipython
+
+class method and static methods python
+Going through the video
+Practice code in ipython
+
