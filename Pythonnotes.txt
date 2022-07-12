@@ -335,3 +335,7 @@ class method and static methods python
 Going through the video
 Practice code in ipython
 
+Special(Dunder/Magic) methods
+Going through the video
+Practice code in ipython
+
