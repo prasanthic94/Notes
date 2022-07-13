@@ -352,3 +352,6 @@ Practice code in ipython
 Conditional statements:
 Going through the video
 Practice code in ipython
+
+Functions
+Practice code in ipython
