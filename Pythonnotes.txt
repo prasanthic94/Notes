@@ -343,3 +343,8 @@ Practice code in ipython
 Decorators in python
 Going through the video
 Practice code in ipython
+
+
+Boolean operators
+Practice code in ipython
+
