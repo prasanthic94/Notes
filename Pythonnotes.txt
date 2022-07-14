@@ -355,3 +355,7 @@ Practice code in ipython
 
 Functions
 Practice code in ipython
+
+Datatypes
+Going through the video
+Practice code in ipython
