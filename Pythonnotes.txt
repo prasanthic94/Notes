@@ -359,3 +359,6 @@ Practice code in ipython
 Datatypes
 Going through the video
 Practice code in ipython
+
+Loops 
+Practice code on ipython
